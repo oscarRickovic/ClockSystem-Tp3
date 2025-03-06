@@ -56,4 +56,6 @@ Due to the graphical nature of the Java application, running the GUI may not be 
 4. Once the project is reopened in the container, you need to wait a bit for the container to build and start, and then you can start developing, all the tools and dependencies are already installed in the container.
 
 
+# Badge :
+![Build Status](https://github.com/oscarRickovic/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 
