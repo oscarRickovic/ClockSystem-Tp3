@@ -58,6 +58,6 @@ Due to the graphical nature of the Java application, running the GUI may not be 
 
 # Badge :
 ![Build Status](https://github.com/oscarRickovic/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
-![PMD Analysis](https://github.com/scarRickovic/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
+![PMD Analysis](https://github.com/oscarRickovic/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
 
 
