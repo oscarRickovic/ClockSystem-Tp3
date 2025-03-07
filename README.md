@@ -62,6 +62,6 @@ Due to the graphical nature of the Java application, running the GUI may not be 
 ![Build Status](https://github.com/oscarRickovic/ClockSystem-Tp3/actions/workflows/codeql.yml/badge.svg)
 
 
-OpenSSF Scorecard Analysis: ![Build Status](https://github.com/oscarRickovic/ClockSystem-Tp3/actions/workflows/scorecard.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/oscarRickovic/ClockSystem-Tp3/badge)](https://scorecard.dev/viewer/?uri=github.com/ClockSystem-Tp3)
+OpenSSF Scorecard Analysis: ![Build Status](https://github.com/oscarRickovic/ClockSystem-Tp3/actions/workflows/scorecard.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/oscarRickovic/ClockSystem-Tp3/badge)](https://scorecard.dev/viewer/?uri=github.com/oscarRickovic/ClockSystem-Tp3)
 
 
